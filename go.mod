@@ -1,4 +1,4 @@
-module github.com/bitonicnl/verify-signed-message
+module github.com/yixin-1024/verify-signed-message
 
 go 1.18
 
