@@ -6,7 +6,7 @@ import (
 	"github.com/btcsuite/btcd/btcec/v2"
 	"github.com/stretchr/testify/require"
 
-	"github.com/bitonicnl/verify-signed-message/internal"
+	"github.com/yixin-1024/verify-signed-message/internal"
 )
 
 func TestGeneratePublicKeyHashCompressed(t *testing.T) {

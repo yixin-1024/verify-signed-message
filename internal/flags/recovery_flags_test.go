@@ -6,7 +6,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/bitonicnl/verify-signed-message/internal/flags"
+	"github.com/yixin-1024/verify-signed-message/internal/flags"
 )
 
 type RecoveryFlagTestSuite struct {

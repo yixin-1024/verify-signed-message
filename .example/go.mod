@@ -3,7 +3,7 @@ module example
 go 1.18
 
 require (
-	github.com/bitonicnl/verify-signed-message v0.5.3
+	github.com/yixin-1024/verify-signed-message v0.5.3
 	github.com/btcsuite/btcd v0.23.4
 )
 

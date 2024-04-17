@@ -8,7 +8,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 
-	verifier "github.com/bitonicnl/verify-signed-message/pkg"
+	verifier "github.com/yixin-1024/verify-signed-message/pkg"
 )
 
 type VerifyTestSuite struct {

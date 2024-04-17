@@ -5,7 +5,7 @@ import (
 
 	"github.com/btcsuite/btcd/chaincfg"
 
-	"github.com/bitonicnl/verify-signed-message/pkg"
+	"github.com/yixin-1024/verify-signed-message/pkg"
 )
 
 // This example will output `true, <nil>` for both signed messages, since the signature is valid and there are no errors.

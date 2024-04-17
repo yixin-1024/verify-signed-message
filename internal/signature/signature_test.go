@@ -12,8 +12,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/bitonicnl/verify-signed-message/internal"
-	"github.com/bitonicnl/verify-signed-message/internal/signature"
+	"github.com/yixin-1024/verify-signed-message/internal"
+	"github.com/yixin-1024/verify-signed-message/internal/signature"
 )
 
 type SignatureTestSuite struct {

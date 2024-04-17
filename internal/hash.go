@@ -5,7 +5,7 @@ import (
 	"github.com/btcsuite/btcd/btcutil"
 	"github.com/samber/lo"
 
-	"github.com/bitonicnl/verify-signed-message/internal/flags"
+	"github.com/yixin-1024/verify-signed-message/internal/flags"
 )
 
 // GeneratePublicKeyHash returns the public key hash, either compressed or uncompressed, depending on the recovery flag.

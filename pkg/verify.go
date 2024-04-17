@@ -13,9 +13,9 @@ import (
 	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/samber/lo"
 
-	"github.com/bitonicnl/verify-signed-message/internal"
-	"github.com/bitonicnl/verify-signed-message/internal/flags"
-	"github.com/bitonicnl/verify-signed-message/internal/signature"
+	"github.com/yixin-1024/verify-signed-message/internal"
+	"github.com/yixin-1024/verify-signed-message/internal/flags"
+	"github.com/yixin-1024/verify-signed-message/internal/signature"
 )
 
 // ExpectedSignatureLength contains the fixed signature length all signed messages are expected to have.
